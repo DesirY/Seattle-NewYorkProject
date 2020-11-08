@@ -1,0 +1,4002 @@
+{
+  "neighbors": [
+    {
+      "neighborName": "Denny - Blaine",
+      "totalNum": 2
+    },
+    {
+      "neighborName": "Rainier View",
+      "totalNum": 7
+    },
+    {
+      "neighborName": "Windermere",
+      "totalNum": 7
+    },
+    {
+      "neighborName": "Hawthorne Hills",
+      "totalNum": 9
+    },
+    {
+      "neighborName": "North Beach",
+      "totalNum": 9
+    },
+    {
+      "neighborName": "Harbor Island",
+      "totalNum": 20
+    },
+    {
+      "neighborName": "Arbor Heights",
+      "totalNum": 27
+    },
+    {
+      "neighborName": "South Beacon Hill",
+      "totalNum": 33
+    },
+    {
+      "neighborName": "Yesler Terrace",
+      "totalNum": 39
+    },
+    {
+      "neighborName": "Blue Ridge",
+      "totalNum": 40
+    },
+    {
+      "neighborName": "Broadmoor",
+      "totalNum": 41
+    },
+    {
+      "neighborName": "Sand Point",
+      "totalNum": 41
+    },
+    {
+      "neighborName": "View Ridge",
+      "totalNum": 41
+    },
+    {
+      "neighborName": "Woodland",
+      "totalNum": 49
+    },
+    {
+      "neighborName": "Olympic Manor",
+      "totalNum": 53
+    },
+    {
+      "neighborName": "Matthews Beach",
+      "totalNum": 55
+    },
+    {
+      "neighborName": "Portage Bay",
+      "totalNum": 55
+    },
+    {
+      "neighborName": "Highland Park",
+      "totalNum": 58
+    },
+    {
+      "neighborName": "Riverview",
+      "totalNum": 69
+    },
+    {
+      "neighborName": "Jackson Place",
+      "totalNum": 74
+    },
+    {
+      "neighborName": "Genesee",
+      "totalNum": 77
+    },
+    {
+      "neighborName": "High Point",
+      "totalNum": 82
+    },
+    {
+      "neighborName": "Lakewood",
+      "totalNum": 86
+    },
+    {
+      "neighborName": "Rainier Beach",
+      "totalNum": 87
+    },
+    {
+      "neighborName": "Atlantic",
+      "totalNum": 88
+    },
+    {
+      "neighborName": "Seward Park",
+      "totalNum": 91
+    },
+    {
+      "neighborName": "Garfield",
+      "totalNum": 92
+    },
+    {
+      "neighborName": "Fauntleroy",
+      "totalNum": 95
+    },
+    {
+      "neighborName": "Broadview",
+      "totalNum": 98
+    },
+    {
+      "neighborName": "Leschi",
+      "totalNum": 100
+    },
+    {
+      "neighborName": "Montlake",
+      "totalNum": 103
+    },
+    {
+      "neighborName": "Sunset Hill",
+      "totalNum": 105
+    },
+    {
+      "neighborName": "Crown Hill",
+      "totalNum": 106
+    },
+    {
+      "neighborName": "Judkins Park",
+      "totalNum": 106
+    },
+    {
+      "neighborName": "Pinehurst",
+      "totalNum": 110
+    },
+    {
+      "neighborName": "Mt. Baker",
+      "totalNum": 112
+    },
+    {
+      "neighborName": "South Delridge",
+      "totalNum": 125
+    },
+    {
+      "neighborName": "Bryant",
+      "totalNum": 126
+    },
+    {
+      "neighborName": "Holly Park",
+      "totalNum": 127
+    },
+    {
+      "neighborName": "Meadowbrook",
+      "totalNum": 129
+    },
+    {
+      "neighborName": "Hillman City",
+      "totalNum": 141
+    },
+    {
+      "neighborName": "Brighton",
+      "totalNum": 142
+    },
+    {
+      "neighborName": "Beacon Hill",
+      "totalNum": 143
+    },
+    {
+      "neighborName": "Seaview",
+      "totalNum": 143
+    },
+    {
+      "neighborName": "North Delridge",
+      "totalNum": 146
+    },
+    {
+      "neighborName": "Alki",
+      "totalNum": 152
+    },
+    {
+      "neighborName": "Gatewood",
+      "totalNum": 152
+    },
+    {
+      "neighborName": "Roxhill",
+      "totalNum": 158
+    },
+    {
+      "neighborName": "Dunlap",
+      "totalNum": 167
+    },
+    {
+      "neighborName": "South Park",
+      "totalNum": 176
+    },
+    {
+      "neighborName": "Central",
+      "totalNum": 188
+    },
+    {
+      "neighborName": "Whittier Heights",
+      "totalNum": 190
+    },
+    {
+      "neighborName": "Laurelhurst",
+      "totalNum": 194
+    },
+    {
+      "neighborName": "Loyal Heights",
+      "totalNum": 208
+    },
+    {
+      "neighborName": "Little Saigon",
+      "totalNum": 211
+    },
+    {
+      "neighborName": "Waterfront",
+      "totalNum": 215
+    },
+    {
+      "neighborName": "Madison Valley",
+      "totalNum": 221
+    },
+    {
+      "neighborName": "Madrona",
+      "totalNum": 221
+    },
+    {
+      "neighborName": "Wedgwood",
+      "totalNum": 223
+    },
+    {
+      "neighborName": "Fairmount Park",
+      "totalNum": 228
+    },
+    {
+      "neighborName": "Cedar Park",
+      "totalNum": 232
+    },
+    {
+      "neighborName": "Madison Park",
+      "totalNum": 236
+    },
+    {
+      "neighborName": "North Queen Anne",
+      "totalNum": 256
+    },
+    {
+      "neighborName": "Lower Queen Anne",
+      "totalNum": 268
+    },
+    {
+      "neighborName": "Olympic Hills",
+      "totalNum": 292
+    },
+    {
+      "neighborName": "North Beacon Hill",
+      "totalNum": 317
+    },
+    {
+      "neighborName": "Minor",
+      "totalNum": 325
+    },
+    {
+      "neighborName": "North College Park",
+      "totalNum": 331
+    },
+    {
+      "neighborName": "Haller Lake",
+      "totalNum": 334
+    },
+    {
+      "neighborName": "Bitter Lake",
+      "totalNum": 344
+    },
+    {
+      "neighborName": "Phinney Ridge",
+      "totalNum": 363
+    },
+    {
+      "neighborName": "Victory Heights",
+      "totalNum": 367
+    },
+    {
+      "neighborName": "Roosevelt",
+      "totalNum": 399
+    },
+    {
+      "neighborName": "West Queen Anne",
+      "totalNum": 404
+    },
+    {
+      "neighborName": "Eastlake",
+      "totalNum": 418
+    },
+    {
+      "neighborName": "Admiral",
+      "totalNum": 420
+    },
+    {
+      "neighborName": "Interbay",
+      "totalNum": 421
+    },
+    {
+      "neighborName": "Magnolia",
+      "totalNum": 440
+    },
+    {
+      "neighborName": "Columbia City",
+      "totalNum": 454
+    },
+    {
+      "neighborName": "East Queen Anne",
+      "totalNum": 484
+    },
+    {
+      "neighborName": "West Woodland",
+      "totalNum": 487
+    },
+    {
+      "neighborName": "Maple Leaf",
+      "totalNum": 573
+    },
+    {
+      "neighborName": "Westlake",
+      "totalNum": 597
+    },
+    {
+      "neighborName": "Green Lake",
+      "totalNum": 614
+    },
+    {
+      "neighborName": "International District",
+      "totalNum": 643
+    },
+    {
+      "neighborName": "Ravenna",
+      "totalNum": 656
+    },
+    {
+      "neighborName": "Junction",
+      "totalNum": 680
+    },
+    {
+      "neighborName": "Georgetown",
+      "totalNum": 722
+    },
+    {
+      "neighborName": "Northgate",
+      "totalNum": 767
+    },
+    {
+      "neighborName": "Greenwood",
+      "totalNum": 770
+    },
+    {
+      "neighborName": "Denny Triangle",
+      "totalNum": 777
+    },
+    {
+      "neighborName": "Uptown",
+      "totalNum": 785
+    },
+    {
+      "neighborName": "South Lake Union",
+      "totalNum": 956
+    },
+    {
+      "neighborName": "Wallingford",
+      "totalNum": 983
+    },
+    {
+      "neighborName": "First Hill",
+      "totalNum": 1037
+    },
+    {
+      "neighborName": "Pioneer Square",
+      "totalNum": 1064
+    },
+    {
+      "neighborName": "Industrial District",
+      "totalNum": 1214
+    },
+    {
+      "neighborName": "University District",
+      "totalNum": 1322
+    },
+    {
+      "neighborName": "Fremont",
+      "totalNum": 1396
+    },
+    {
+      "neighborName": "Belltown",
+      "totalNum": 1457
+    },
+    {
+      "neighborName": "Ballard",
+      "totalNum": 1495
+    },
+    {
+      "neighborName": "Capitol Hill",
+      "totalNum": 2181
+    },
+    {
+      "neighborName": "Downtown",
+      "totalNum": 6616
+    }
+  ],
+  "circles": [
+    {
+      "neighborId": 6,
+      "category": "Estate Liquidation",
+      "num": 1,
+      "incidence": 254.88,
+      "rank": 1
+    },
+    {
+      "neighborId": 6,
+      "category": "Fabric Stores",
+      "num": 1,
+      "incidence": 76.46,
+      "rank": 2
+    },
+    {
+      "neighborId": 6,
+      "category": "Home Organization",
+      "num": 1,
+      "incidence": 66.49,
+      "rank": 3
+    },
+    {
+      "neighborId": 6,
+      "category": "Musical Instruments & Teachers",
+      "num": 1,
+      "incidence": 38.23,
+      "rank": 4
+    },
+    {
+      "neighborId": 6,
+      "category": "Photo Booth Rentals",
+      "num": 1,
+      "incidence": 32.54,
+      "rank": 5
+    },
+    {
+      "neighborId": 24,
+      "category": "CPR Classes",
+      "num": 1,
+      "incidence": 78.2,
+      "rank": 1
+    },
+    {
+      "neighborId": 24,
+      "category": "Qi Gong",
+      "num": 1,
+      "incidence": 67.03,
+      "rank": 2
+    },
+    {
+      "neighborId": 24,
+      "category": "Trains",
+      "num": 1,
+      "incidence": 58.65,
+      "rank": 3
+    },
+    {
+      "neighborId": 24,
+      "category": "Do-It-Yourself Food",
+      "num": 1,
+      "incidence": 52.13,
+      "rank": 4
+    },
+    {
+      "neighborId": 24,
+      "category": "Playgrounds",
+      "num": 1,
+      "incidence": 52.13,
+      "rank": 5
+    },
+    {
+      "neighborId": 9,
+      "category": "Christmas Trees",
+      "num": 1,
+      "incidence": 147.46,
+      "rank": 1
+    },
+    {
+      "neighborId": 9,
+      "category": "Furniture Reupholstery",
+      "num": 1,
+      "incidence": 41.29,
+      "rank": 2
+    },
+    {
+      "neighborId": 9,
+      "category": "Hypnosis/Hypnotherapy",
+      "num": 1,
+      "incidence": 35.59,
+      "rank": 3
+    },
+    {
+      "neighborId": 9,
+      "category": "Montessori Schools",
+      "num": 1,
+      "incidence": 34.41,
+      "rank": 4
+    },
+    {
+      "neighborId": 9,
+      "category": "Pet Services",
+      "num": 1,
+      "incidence": 30.36,
+      "rank": 5
+    },
+    {
+      "neighborId": 10,
+      "category": "Golf",
+      "num": 1,
+      "incidence": 503.54,
+      "rank": 1
+    },
+    {
+      "neighborId": 10,
+      "category": "Beer Tours",
+      "num": 1,
+      "incidence": 251.77,
+      "rank": 2
+    },
+    {
+      "neighborId": 10,
+      "category": "Parenting Classes",
+      "num": 1,
+      "incidence": 100.71,
+      "rank": 3
+    },
+    {
+      "neighborId": 10,
+      "category": "Party Supplies",
+      "num": 1,
+      "incidence": 62.94,
+      "rank": 4
+    },
+    {
+      "neighborId": 10,
+      "category": "Cooking Schools",
+      "num": 1,
+      "incidence": 38.73,
+      "rank": 5
+    },
+    {
+      "neighborId": 28,
+      "category": "Beaches",
+      "num": 1,
+      "incidence": 140.44,
+      "rank": 1
+    },
+    {
+      "neighborId": 28,
+      "category": "Gardeners",
+      "num": 1,
+      "incidence": 140.44,
+      "rank": 2
+    },
+    {
+      "neighborId": 28,
+      "category": "Medical Transportation",
+      "num": 1,
+      "incidence": 105.33,
+      "rank": 4
+    },
+    {
+      "neighborId": 28,
+      "category": "Musical Instrument Services",
+      "num": 1,
+      "incidence": 105.33,
+      "rank": 5
+    },
+    {
+      "neighborId": 0,
+      "category": "Doulas",
+      "num": 1,
+      "incidence": 1214.41,
+      "rank": 1
+    },
+    {
+      "neighborId": 0,
+      "category": "Lawyers",
+      "num": 1,
+      "incidence": 14.43,
+      "rank": 2
+    },
+    {
+      "neighborId": 27,
+      "category": "Pet Cremation Services",
+      "num": 1,
+      "incidence": 434.63,
+      "rank": 1
+    },
+    {
+      "neighborId": 27,
+      "category": "Tattoo Removal",
+      "num": 1,
+      "incidence": 108.66,
+      "rank": 2
+    },
+    {
+      "neighborId": 27,
+      "category": "Elder Care Planning",
+      "num": 1,
+      "incidence": 86.93,
+      "rank": 3
+    },
+    {
+      "neighborId": 27,
+      "category": "Karate",
+      "num": 1,
+      "incidence": 86.93,
+      "rank": 4
+    },
+    {
+      "neighborId": 27,
+      "category": "Personal Care Services",
+      "num": 1,
+      "incidence": 62.09,
+      "rank": 5
+    },
+    {
+      "neighborId": 26,
+      "category": "Cannabis Dispensaries",
+      "num": 1,
+      "incidence": 149.6,
+      "rank": 1
+    },
+    {
+      "neighborId": 26,
+      "category": "Head Shops",
+      "num": 1,
+      "incidence": 89.76,
+      "rank": 2
+    },
+    {
+      "neighborId": 26,
+      "category": "Christmas Trees",
+      "num": 1,
+      "incidence": 64.11,
+      "rank": 3
+    },
+    {
+      "neighborId": 26,
+      "category": "Do-It-Yourself Food",
+      "num": 1,
+      "incidence": 49.87,
+      "rank": 4
+    },
+    {
+      "neighborId": 26,
+      "category": "Waffles",
+      "num": 1,
+      "incidence": 44.88,
+      "rank": 5
+    },
+    {
+      "neighborId": 20,
+      "category": "Adoption Services",
+      "num": 1,
+      "incidence": 178.74,
+      "rank": 1
+    },
+    {
+      "neighborId": 20,
+      "category": "Registration Services",
+      "num": 1,
+      "incidence": 178.74,
+      "rank": 2
+    },
+    {
+      "neighborId": 20,
+      "category": "Utilities",
+      "num": 1,
+      "incidence": 134.06,
+      "rank": 3
+    },
+    {
+      "neighborId": 20,
+      "category": "Paddleboarding",
+      "num": 1,
+      "incidence": 76.6,
+      "rank": 5
+    },
+    {
+      "neighborId": 5,
+      "category": "Home Window Tinting",
+      "num": 1,
+      "incidence": 688.17,
+      "rank": 1
+    },
+    {
+      "neighborId": 5,
+      "category": "Car Window Tinting",
+      "num": 1,
+      "incidence": 344.08,
+      "rank": 2
+    },
+    {
+      "neighborId": 5,
+      "category": "Vehicle Shipping",
+      "num": 1,
+      "incidence": 137.63,
+      "rank": 3
+    },
+    {
+      "neighborId": 5,
+      "category": "Paint Stores",
+      "num": 1,
+      "incidence": 114.69,
+      "rank": 4
+    },
+    {
+      "neighborId": 5,
+      "category": "Metal Fabricators",
+      "num": 1,
+      "incidence": 49.15,
+      "rank": 5
+    },
+    {
+      "neighborId": 3,
+      "category": "Churches",
+      "num": 1,
+      "incidence": 176.45,
+      "rank": 1
+    },
+    {
+      "neighborId": 3,
+      "category": "Public Services & Government",
+      "num": 1,
+      "incidence": 88.23,
+      "rank": 2
+    },
+    {
+      "neighborId": 3,
+      "category": "Art Schools",
+      "num": 1,
+      "incidence": 71.68,
+      "rank": 3
+    },
+    {
+      "neighborId": 3,
+      "category": "Print Media",
+      "num": 1,
+      "incidence": 33.49,
+      "rank": 4
+    },
+    {
+      "neighborId": 3,
+      "category": "Elementary Schools",
+      "num": 1,
+      "incidence": 24.93,
+      "rank": 5
+    },
+    {
+      "neighborId": 21,
+      "category": "Smog Check Stations",
+      "num": 1,
+      "incidence": 167.85,
+      "rank": 1
+    },
+    {
+      "neighborId": 21,
+      "category": "Food",
+      "num": 1,
+      "incidence": 71.93,
+      "rank": 2
+    },
+    {
+      "neighborId": 21,
+      "category": "Painters",
+      "num": 1,
+      "incidence": 55.95,
+      "rank": 3
+    },
+    {
+      "neighborId": 21,
+      "category": "Magicians",
+      "num": 1,
+      "incidence": 50.35,
+      "rank": 4
+    },
+    {
+      "neighborId": 21,
+      "category": "Food Banks",
+      "num": 1,
+      "incidence": 27.97,
+      "rank": 5
+    },
+    {
+      "neighborId": 17,
+      "category": "Butcher",
+      "num": 1,
+      "incidence": 88.99,
+      "rank": 1
+    },
+    {
+      "neighborId": 17,
+      "category": "Recycling Center",
+      "num": 1,
+      "incidence": 30.95,
+      "rank": 2
+    },
+    {
+      "neighborId": 17,
+      "category": "Churches",
+      "num": 1,
+      "incidence": 27.38,
+      "rank": 3
+    },
+    {
+      "neighborId": 19,
+      "category": "Hybrid Car Repair",
+      "num": 1,
+      "incidence": 557.97,
+      "rank": 1
+    },
+    {
+      "neighborId": 19,
+      "category": "Peruvian",
+      "num": 1,
+      "incidence": 139.49,
+      "rank": 2
+    },
+    {
+      "neighborId": 19,
+      "category": "Shades & Blinds",
+      "num": 1,
+      "incidence": 79.71,
+      "rank": 3
+    },
+    {
+      "neighborId": 19,
+      "category": "Chicken Shop",
+      "num": 1,
+      "incidence": 46.5,
+      "rank": 5
+    },
+    {
+      "neighborId": 22,
+      "category": "Security Systems",
+      "num": 1,
+      "incidence": 120.03,
+      "rank": 1
+    },
+    {
+      "neighborId": 22,
+      "category": "Gutter Services",
+      "num": 1,
+      "incidence": 96.02,
+      "rank": 2
+    },
+    {
+      "neighborId": 22,
+      "category": "Land Surveying",
+      "num": 1,
+      "incidence": 80.02,
+      "rank": 3
+    },
+    {
+      "neighborId": 22,
+      "category": "Chinese Martial Arts",
+      "num": 1,
+      "incidence": 48.01,
+      "rank": 4
+    },
+    {
+      "neighborId": 22,
+      "category": "Religious Organizations",
+      "num": 1,
+      "incidence": 43.65,
+      "rank": 5
+    },
+    {
+      "neighborId": 29,
+      "category": "Psychic Mediums",
+      "num": 1,
+      "incidence": 82.58,
+      "rank": 1
+    },
+    {
+      "neighborId": 29,
+      "category": "Paddleboarding",
+      "num": 1,
+      "incidence": 58.99,
+      "rank": 2
+    },
+    {
+      "neighborId": 29,
+      "category": "Pop-Up Restaurants",
+      "num": 1,
+      "incidence": 51.61,
+      "rank": 3
+    },
+    {
+      "neighborId": 29,
+      "category": "Filipino",
+      "num": 1,
+      "incidence": 34.41,
+      "rank": 4
+    },
+    {
+      "neighborId": 29,
+      "category": "Party Supplies",
+      "num": 1,
+      "incidence": 25.81,
+      "rank": 5
+    },
+    {
+      "neighborId": 15,
+      "category": "Piano Services",
+      "num": 1,
+      "incidence": 107.25,
+      "rank": 1
+    },
+    {
+      "neighborId": 15,
+      "category": "Face Painting",
+      "num": 1,
+      "incidence": 75.07,
+      "rank": 2
+    },
+    {
+      "neighborId": 15,
+      "category": "Rehabilitation Center",
+      "num": 1,
+      "incidence": 37.54,
+      "rank": 4
+    },
+    {
+      "neighborId": 15,
+      "category": "Retirement Homes",
+      "num": 1,
+      "incidence": 32.64,
+      "rank": 5
+    },
+    {
+      "neighborId": 4,
+      "category": "Packing Services",
+      "num": 1,
+      "incidence": 218.47,
+      "rank": 1
+    },
+    {
+      "neighborId": 4,
+      "category": "Buses",
+      "num": 1,
+      "incidence": 152.93,
+      "rank": 2
+    },
+    {
+      "neighborId": 4,
+      "category": "Public Transportation",
+      "num": 1,
+      "incidence": 101.95,
+      "rank": 3
+    },
+    {
+      "neighborId": 4,
+      "category": "Reiki",
+      "num": 1,
+      "incidence": 69.51,
+      "rank": 4
+    },
+    {
+      "neighborId": 4,
+      "category": "Movers",
+      "num": 1,
+      "incidence": 38.55,
+      "rank": 5
+    },
+    {
+      "neighborId": 14,
+      "category": "Muay Thai",
+      "num": 1,
+      "incidence": 779.06,
+      "rank": 1
+    },
+    {
+      "neighborId": 14,
+      "category": "Boxing",
+      "num": 1,
+      "incidence": 155.81,
+      "rank": 2
+    },
+    {
+      "neighborId": 14,
+      "category": "Brazilian Jiu-jitsu",
+      "num": 1,
+      "incidence": 155.81,
+      "rank": 3
+    },
+    {
+      "neighborId": 14,
+      "category": "Retirement Homes",
+      "num": 1,
+      "incidence": 33.87,
+      "rank": 5
+    },
+    {
+      "neighborId": 16,
+      "category": "Hindu Temples",
+      "num": 1,
+      "incidence": 750.73,
+      "rank": 1
+    },
+    {
+      "neighborId": 16,
+      "category": "Polish",
+      "num": 1,
+      "incidence": 250.24,
+      "rank": 2
+    },
+    {
+      "neighborId": 16,
+      "category": "Amateur Sports Teams",
+      "num": 1,
+      "incidence": 150.15,
+      "rank": 3
+    },
+    {
+      "neighborId": 16,
+      "category": "University Housing",
+      "num": 1,
+      "incidence": 107.25,
+      "rank": 4
+    },
+    {
+      "neighborId": 23,
+      "category": "Professional Sports Teams",
+      "num": 1,
+      "incidence": 158.2,
+      "rank": 1
+    },
+    {
+      "neighborId": 23,
+      "category": "Latin American",
+      "num": 1,
+      "incidence": 39.55,
+      "rank": 2
+    },
+    {
+      "neighborId": 23,
+      "category": "Cajun/Creole",
+      "num": 1,
+      "incidence": 36.51,
+      "rank": 3
+    },
+    {
+      "neighborId": 23,
+      "category": "Religious Schools",
+      "num": 1,
+      "incidence": 36.51,
+      "rank": 4
+    },
+    {
+      "neighborId": 23,
+      "category": "Botanical Gardens",
+      "num": 1,
+      "incidence": 33.9,
+      "rank": 5
+    },
+    {
+      "neighborId": 1,
+      "category": "Car Stereo Installation",
+      "num": 1,
+      "incidence": 1966.19,
+      "rank": 1
+    },
+    {
+      "neighborId": 1,
+      "category": "Costumes",
+      "num": 1,
+      "incidence": 842.65,
+      "rank": 2
+    },
+    {
+      "neighborId": 1,
+      "category": "Electronics",
+      "num": 1,
+      "incidence": 218.47,
+      "rank": 3
+    },
+    {
+      "neighborId": 1,
+      "category": "Junk Removal & Hauling",
+      "num": 1,
+      "incidence": 99.98,
+      "rank": 4
+    },
+    {
+      "neighborId": 1,
+      "category": "Auto Parts & Supplies",
+      "num": 1,
+      "incidence": 90.75,
+      "rank": 5
+    },
+    {
+      "neighborId": 18,
+      "category": "CSA",
+      "num": 1,
+      "incidence": 199.47,
+      "rank": 1
+    },
+    {
+      "neighborId": 18,
+      "category": "Medical Transportation",
+      "num": 1,
+      "incidence": 149.6,
+      "rank": 2
+    },
+    {
+      "neighborId": 18,
+      "category": "Candle Stores",
+      "num": 1,
+      "incidence": 99.73,
+      "rank": 3
+    },
+    {
+      "neighborId": 18,
+      "category": "Herbs & Spices",
+      "num": 1,
+      "incidence": 85.49,
+      "rank": 4
+    },
+    {
+      "neighborId": 18,
+      "category": "Pet Adoption",
+      "num": 1,
+      "incidence": 85.49,
+      "rank": 5
+    },
+    {
+      "neighborId": 11,
+      "category": "Waldorf Schools",
+      "num": 1,
+      "incidence": 251.77,
+      "rank": 1
+    },
+    {
+      "neighborId": 11,
+      "category": "Scavenger Hunts",
+      "num": 1,
+      "incidence": 201.41,
+      "rank": 2
+    },
+    {
+      "neighborId": 11,
+      "category": "Playgrounds",
+      "num": 1,
+      "incidence": 111.9,
+      "rank": 3
+    },
+    {
+      "neighborId": 11,
+      "category": "Community Gardens",
+      "num": 1,
+      "incidence": 100.71,
+      "rank": 4
+    },
+    {
+      "neighborId": 11,
+      "category": "African",
+      "num": 1,
+      "incidence": 71.93,
+      "rank": 5
+    },
+    {
+      "neighborId": 25,
+      "category": "Gardeners",
+      "num": 1,
+      "incidence": 151.25,
+      "rank": 1
+    },
+    {
+      "neighborId": 25,
+      "category": "Skilled Nursing",
+      "num": 1,
+      "incidence": 113.43,
+      "rank": 2
+    },
+    {
+      "neighborId": 25,
+      "category": "Home Theatre Installation",
+      "num": 1,
+      "incidence": 75.62,
+      "rank": 3
+    },
+    {
+      "neighborId": 25,
+      "category": "Do-It-Yourself Food",
+      "num": 1,
+      "incidence": 50.42,
+      "rank": 5
+    },
+    {
+      "neighborId": 7,
+      "category": "Environmental Testing",
+      "num": 1,
+      "incidence": 156.4,
+      "rank": 1
+    },
+    {
+      "neighborId": 7,
+      "category": "Machine & Tool Rental",
+      "num": 1,
+      "incidence": 125.12,
+      "rank": 2
+    },
+    {
+      "neighborId": 7,
+      "category": "Home Inspectors",
+      "num": 1,
+      "incidence": 113.75,
+      "rank": 3
+    },
+    {
+      "neighborId": 7,
+      "category": "Party Bus Rentals",
+      "num": 1,
+      "incidence": 113.75,
+      "rank": 4
+    },
+    {
+      "neighborId": 7,
+      "category": "Imported Food",
+      "num": 1,
+      "incidence": 96.25,
+      "rank": 5
+    },
+    {
+      "neighborId": 12,
+      "category": "Clowns",
+      "num": 1,
+      "incidence": 251.77,
+      "rank": 1
+    },
+    {
+      "neighborId": 12,
+      "category": "Billing Services",
+      "num": 1,
+      "incidence": 167.85,
+      "rank": 2
+    },
+    {
+      "neighborId": 12,
+      "category": "Candy Stores",
+      "num": 1,
+      "incidence": 62.94,
+      "rank": 3
+    },
+    {
+      "neighborId": 12,
+      "category": "Special Education",
+      "num": 1,
+      "incidence": 50.35,
+      "rank": 4
+    },
+    {
+      "neighborId": 12,
+      "category": "Cooking Schools",
+      "num": 1,
+      "incidence": 38.73,
+      "rank": 5
+    },
+    {
+      "neighborId": 2,
+      "category": "Art Classes",
+      "num": 1,
+      "incidence": 168.53,
+      "rank": 1
+    },
+    {
+      "neighborId": 2,
+      "category": "Child Care & Day Care",
+      "num": 1,
+      "incidence": 55.65,
+      "rank": 2
+    },
+    {
+      "neighborId": 2,
+      "category": "Accountants",
+      "num": 1,
+      "incidence": 42.44,
+      "rank": 3
+    },
+    {
+      "neighborId": 2,
+      "category": "Elementary Schools",
+      "num": 1,
+      "incidence": 32.06,
+      "rank": 4
+    },
+    {
+      "neighborId": 2,
+      "category": "Preschools",
+      "num": 1,
+      "incidence": 25.42,
+      "rank": 5
+    },
+    {
+      "neighborId": 13,
+      "category": "Zoos",
+      "num": 1,
+      "incidence": 842.65,
+      "rank": 1
+    },
+    {
+      "neighborId": 13,
+      "category": "Food Court",
+      "num": 1,
+      "incidence": 93.63,
+      "rank": 3
+    },
+    {
+      "neighborId": 13,
+      "category": "Souvenir Shops",
+      "num": 1,
+      "incidence": 64.82,
+      "rank": 4
+    },
+    {
+      "neighborId": 13,
+      "category": "Comfort Food",
+      "num": 1,
+      "incidence": 49.57,
+      "rank": 5
+    },
+    {
+      "neighborId": 8,
+      "category": "Disability Law",
+      "num": 1,
+      "incidence": 352.91,
+      "rank": 1
+    },
+    {
+      "neighborId": 8,
+      "category": "Honey",
+      "num": 1,
+      "incidence": 352.91,
+      "rank": 2
+    },
+    {
+      "neighborId": 8,
+      "category": "Billing Services",
+      "num": 1,
+      "incidence": 176.45,
+      "rank": 3
+    },
+    {
+      "neighborId": 8,
+      "category": "Hookah Bars",
+      "num": 1,
+      "incidence": 96.25,
+      "rank": 4
+    },
+    {
+      "neighborId": 8,
+      "category": "Recreation Centers",
+      "num": 1,
+      "incidence": 52.94,
+      "rank": 5
+    },
+    {
+      "neighborId": 45,
+      "category": "Tutoring Centers",
+      "num": 2,
+      "incidence": 8.49,
+      "rank": 3
+    },
+    {
+      "neighborId": 45,
+      "category": "Juice Bars & Smoothies",
+      "num": 2,
+      "incidence": 8.23,
+      "rank": 4
+    },
+    {
+      "neighborId": 42,
+      "category": "Filipino",
+      "num": 2,
+      "incidence": 48.12,
+      "rank": 1
+    },
+    {
+      "neighborId": 42,
+      "category": "Dim Sum",
+      "num": 2,
+      "incidence": 22.21,
+      "rank": 4
+    },
+    {
+      "neighborId": 42,
+      "category": "Oil Change Stations",
+      "num": 2,
+      "incidence": 11.79,
+      "rank": 5
+    },
+    {
+      "neighborId": 41,
+      "category": "African",
+      "num": 2,
+      "incidence": 41.54,
+      "rank": 1
+    },
+    {
+      "neighborId": 41,
+      "category": "Ethiopian",
+      "num": 2,
+      "incidence": 17.1,
+      "rank": 3
+    },
+    {
+      "neighborId": 41,
+      "category": "Chicken Wings",
+      "num": 2,
+      "incidence": 14.18,
+      "rank": 5
+    },
+    {
+      "neighborId": 28,
+      "category": "Assisted Living Facilities",
+      "num": 2,
+      "incidence": 105.33,
+      "rank": 3
+    },
+    {
+      "neighborId": 37,
+      "category": "Test Preparation",
+      "num": 2,
+      "incidence": 18.21,
+      "rank": 1
+    },
+    {
+      "neighborId": 37,
+      "category": "Children's Clothing",
+      "num": 2,
+      "incidence": 13.11,
+      "rank": 3
+    },
+    {
+      "neighborId": 37,
+      "category": "Medical Spas",
+      "num": 2,
+      "incidence": 11.5,
+      "rank": 4
+    },
+    {
+      "neighborId": 37,
+      "category": "Tutoring Centers",
+      "num": 2,
+      "incidence": 10.24,
+      "rank": 5
+    },
+    {
+      "neighborId": 50,
+      "category": "Dance Clubs",
+      "num": 2,
+      "incidence": 12.2,
+      "rank": 2
+    },
+    {
+      "neighborId": 50,
+      "category": "Office Cleaning",
+      "num": 2,
+      "incidence": 10.46,
+      "rank": 4
+    },
+    {
+      "neighborId": 50,
+      "category": "Taxis",
+      "num": 2,
+      "incidence": 7.84,
+      "rank": 5
+    },
+    {
+      "neighborId": 32,
+      "category": "Bridal",
+      "num": 2,
+      "incidence": 16.58,
+      "rank": 1
+    },
+    {
+      "neighborId": 32,
+      "category": "Pet Stores",
+      "num": 2,
+      "incidence": 13.43,
+      "rank": 3
+    },
+    {
+      "neighborId": 32,
+      "category": "Pet Groomers",
+      "num": 2,
+      "incidence": 12.98,
+      "rank": 4
+    },
+    {
+      "neighborId": 32,
+      "category": "Pet Training",
+      "num": 2,
+      "incidence": 11.46,
+      "rank": 5
+    },
+    {
+      "neighborId": 48,
+      "category": "Wigs",
+      "num": 2,
+      "incidence": 61.81,
+      "rank": 1
+    },
+    {
+      "neighborId": 48,
+      "category": "Discount Store",
+      "num": 2,
+      "incidence": 29.09,
+      "rank": 4
+    },
+    {
+      "neighborId": 48,
+      "category": "Community Centers",
+      "num": 2,
+      "incidence": 15.45,
+      "rank": 5
+    },
+    {
+      "neighborId": 46,
+      "category": "Telecommunications",
+      "num": 2,
+      "incidence": 23.62,
+      "rank": 1
+    },
+    {
+      "neighborId": 46,
+      "category": "Arts & Entertainment",
+      "num": 2,
+      "incidence": 13.58,
+      "rank": 2
+    },
+    {
+      "neighborId": 46,
+      "category": "Art Schools",
+      "num": 2,
+      "incidence": 8.49,
+      "rank": 3
+    },
+    {
+      "neighborId": 46,
+      "category": "Specialty Schools",
+      "num": 2,
+      "incidence": 7.44,
+      "rank": 4
+    },
+    {
+      "neighborId": 20,
+      "category": "Packing Supplies",
+      "num": 2,
+      "incidence": 76.6,
+      "rank": 4
+    },
+    {
+      "neighborId": 17,
+      "category": "Junk Removal & Hauling",
+      "num": 2,
+      "incidence": 24.13,
+      "rank": 4
+    },
+    {
+      "neighborId": 17,
+      "category": "Auto Detailing",
+      "num": 2,
+      "incidence": 23.73,
+      "rank": 5
+    },
+    {
+      "neighborId": 40,
+      "category": "Filipino",
+      "num": 2,
+      "incidence": 48.81,
+      "rank": 1
+    },
+    {
+      "neighborId": 40,
+      "category": "Cantonese",
+      "num": 2,
+      "incidence": 20.92,
+      "rank": 3
+    },
+    {
+      "neighborId": 40,
+      "category": "Funeral Services & Cemeteries",
+      "num": 2,
+      "incidence": 20.2,
+      "rank": 4
+    },
+    {
+      "neighborId": 40,
+      "category": "Montessori Schools",
+      "num": 2,
+      "incidence": 19.52,
+      "rank": 5
+    },
+    {
+      "neighborId": 38,
+      "category": "African",
+      "num": 2,
+      "incidence": 46.45,
+      "rank": 1
+    },
+    {
+      "neighborId": 38,
+      "category": "Seafood Markets",
+      "num": 2,
+      "incidence": 20.32,
+      "rank": 2
+    },
+    {
+      "neighborId": 38,
+      "category": "Couriers & Delivery Services",
+      "num": 2,
+      "incidence": 11.41,
+      "rank": 4
+    },
+    {
+      "neighborId": 38,
+      "category": "Juice Bars & Smoothies",
+      "num": 2,
+      "incidence": 9.85,
+      "rank": 5
+    },
+    {
+      "neighborId": 19,
+      "category": "Internet Service Providers",
+      "num": 2,
+      "incidence": 74.4,
+      "rank": 4
+    },
+    {
+      "neighborId": 33,
+      "category": "Ethiopian",
+      "num": 2,
+      "incidence": 22.91,
+      "rank": 1
+    },
+    {
+      "neighborId": 33,
+      "category": "Public Services & Government",
+      "num": 2,
+      "incidence": 14.98,
+      "rank": 2
+    },
+    {
+      "neighborId": 33,
+      "category": "Radio Stations",
+      "num": 2,
+      "incidence": 12.17,
+      "rank": 4
+    },
+    {
+      "neighborId": 33,
+      "category": "Pet Training",
+      "num": 2,
+      "incidence": 11.46,
+      "rank": 5
+    },
+    {
+      "neighborId": 52,
+      "category": "Office Cleaning",
+      "num": 2,
+      "incidence": 10.14,
+      "rank": 1
+    },
+    {
+      "neighborId": 52,
+      "category": "Permanent Makeup",
+      "num": 2,
+      "incidence": 7.74,
+      "rank": 2
+    },
+    {
+      "neighborId": 52,
+      "category": "Junk Removal & Hauling",
+      "num": 2,
+      "incidence": 7.21,
+      "rank": 3
+    },
+    {
+      "neighborId": 52,
+      "category": "Home Cleaning",
+      "num": 2,
+      "incidence": 6.55,
+      "rank": 4
+    },
+    {
+      "neighborId": 15,
+      "category": "Parks",
+      "num": 2,
+      "incidence": 38.5,
+      "rank": 3
+    },
+    {
+      "neighborId": 39,
+      "category": "Special Education",
+      "num": 2,
+      "incidence": 32.01,
+      "rank": 1
+    },
+    {
+      "neighborId": 39,
+      "category": "Cannabis Clinics",
+      "num": 2,
+      "incidence": 16.0,
+      "rank": 2
+    },
+    {
+      "neighborId": 39,
+      "category": "Gas Stations",
+      "num": 2,
+      "incidence": 8.31,
+      "rank": 4
+    },
+    {
+      "neighborId": 39,
+      "category": "Middle Schools & High Schools",
+      "num": 2,
+      "incidence": 6.74,
+      "rank": 5
+    },
+    {
+      "neighborId": 30,
+      "category": "Psychiatrists",
+      "num": 2,
+      "incidence": 26.72,
+      "rank": 1
+    },
+    {
+      "neighborId": 30,
+      "category": "Midwives",
+      "num": 2,
+      "incidence": 24.3,
+      "rank": 2
+    },
+    {
+      "neighborId": 30,
+      "category": "Bikes",
+      "num": 2,
+      "incidence": 15.42,
+      "rank": 3
+    },
+    {
+      "neighborId": 30,
+      "category": "Landmarks & Historical Buildings",
+      "num": 2,
+      "incidence": 13.36,
+      "rank": 4
+    },
+    {
+      "neighborId": 35,
+      "category": "Chinese",
+      "num": 2,
+      "incidence": 6.52,
+      "rank": 2
+    },
+    {
+      "neighborId": 35,
+      "category": "Italian",
+      "num": 2,
+      "incidence": 4.98,
+      "rank": 4
+    },
+    {
+      "neighborId": 35,
+      "category": "Interior Design",
+      "num": 2,
+      "incidence": 4.92,
+      "rank": 5
+    },
+    {
+      "neighborId": 44,
+      "category": "Summer Camps",
+      "num": 2,
+      "incidence": 17.14,
+      "rank": 1
+    },
+    {
+      "neighborId": 44,
+      "category": "Educational Services",
+      "num": 2,
+      "incidence": 11.54,
+      "rank": 3
+    },
+    {
+      "neighborId": 44,
+      "category": "Videographers",
+      "num": 2,
+      "incidence": 10.28,
+      "rank": 4
+    },
+    {
+      "neighborId": 14,
+      "category": "Nurseries & Gardening",
+      "num": 2,
+      "incidence": 33.87,
+      "rank": 4
+    },
+    {
+      "neighborId": 34,
+      "category": "Imported Food",
+      "num": 2,
+      "incidence": 57.75,
+      "rank": 1
+    },
+    {
+      "neighborId": 34,
+      "category": "Pediatricians",
+      "num": 2,
+      "incidence": 34.12,
+      "rank": 2
+    },
+    {
+      "neighborId": 34,
+      "category": "Restaurants",
+      "num": 2,
+      "incidence": 13.41,
+      "rank": 3
+    },
+    {
+      "neighborId": 34,
+      "category": "Tutoring Centers",
+      "num": 2,
+      "incidence": 11.73,
+      "rank": 4
+    },
+    {
+      "neighborId": 34,
+      "category": "Gas Stations",
+      "num": 2,
+      "incidence": 9.75,
+      "rank": 5
+    },
+    {
+      "neighborId": 16,
+      "category": "Musicians",
+      "num": 2,
+      "incidence": 42.9,
+      "rank": 5
+    },
+    {
+      "neighborId": 47,
+      "category": "Electronics",
+      "num": 2,
+      "incidence": 19.36,
+      "rank": 2
+    },
+    {
+      "neighborId": 47,
+      "category": "Tanning",
+      "num": 2,
+      "incidence": 18.02,
+      "rank": 4
+    },
+    {
+      "neighborId": 47,
+      "category": "Montessori Schools",
+      "num": 2,
+      "incidence": 17.42,
+      "rank": 5
+    },
+    {
+      "neighborId": 43,
+      "category": "Payroll Services",
+      "num": 2,
+      "incidence": 23.1,
+      "rank": 1
+    },
+    {
+      "neighborId": 43,
+      "category": "Sports Medicine",
+      "num": 2,
+      "incidence": 11.11,
+      "rank": 2
+    },
+    {
+      "neighborId": 43,
+      "category": "Reiki",
+      "num": 2,
+      "incidence": 8.75,
+      "rank": 3
+    },
+    {
+      "neighborId": 43,
+      "category": "Kitchen & Bath",
+      "num": 2,
+      "incidence": 6.87,
+      "rank": 4
+    },
+    {
+      "neighborId": 43,
+      "category": "Weight Loss Centers",
+      "num": 2,
+      "incidence": 6.56,
+      "rank": 5
+    },
+    {
+      "neighborId": 25,
+      "category": "Landscaping",
+      "num": 2,
+      "incidence": 56.72,
+      "rank": 4
+    },
+    {
+      "neighborId": 36,
+      "category": "Mobile Phone Repair",
+      "num": 2,
+      "incidence": 18.35,
+      "rank": 1
+    },
+    {
+      "neighborId": 36,
+      "category": "Notaries",
+      "num": 2,
+      "incidence": 16.11,
+      "rank": 2
+    },
+    {
+      "neighborId": 36,
+      "category": "Middle Schools & High Schools",
+      "num": 2,
+      "incidence": 6.95,
+      "rank": 3
+    },
+    {
+      "neighborId": 36,
+      "category": "Airport Shuttles",
+      "num": 2,
+      "incidence": 5.55,
+      "rank": 4
+    },
+    {
+      "neighborId": 49,
+      "category": "Bus Tours",
+      "num": 2,
+      "incidence": 39.1,
+      "rank": 1
+    },
+    {
+      "neighborId": 31,
+      "category": "IV Hydration",
+      "num": 2,
+      "incidence": 262.16,
+      "rank": 1
+    },
+    {
+      "neighborId": 31,
+      "category": "Sailing",
+      "num": 2,
+      "incidence": 157.3,
+      "rank": 2
+    },
+    {
+      "neighborId": 31,
+      "category": "Cuban",
+      "num": 2,
+      "incidence": 87.39,
+      "rank": 3
+    },
+    {
+      "neighborId": 31,
+      "category": "Rafting/Kayaking",
+      "num": 2,
+      "incidence": 65.54,
+      "rank": 4
+    },
+    {
+      "neighborId": 51,
+      "category": "DJs",
+      "num": 2,
+      "incidence": 5.24,
+      "rank": 5
+    },
+    {
+      "neighborId": 13,
+      "category": "Botanical Gardens",
+      "num": 2,
+      "incidence": 120.38,
+      "rank": 2
+    },
+    {
+      "neighborId": 45,
+      "category": "Fish & Chips",
+      "num": 3,
+      "incidence": 28.1,
+      "rank": 1
+    },
+    {
+      "neighborId": 45,
+      "category": "Museums",
+      "num": 3,
+      "incidence": 18.95,
+      "rank": 2
+    },
+    {
+      "neighborId": 42,
+      "category": "International Grocery",
+      "num": 3,
+      "incidence": 36.09,
+      "rank": 2
+    },
+    {
+      "neighborId": 42,
+      "category": "Meat Shops",
+      "num": 3,
+      "incidence": 27.94,
+      "rank": 3
+    },
+    {
+      "neighborId": 41,
+      "category": "Restaurants",
+      "num": 3,
+      "incidence": 15.58,
+      "rank": 4
+    },
+    {
+      "neighborId": 60,
+      "category": "Greek",
+      "num": 3,
+      "incidence": 11.61,
+      "rank": 1
+    },
+    {
+      "neighborId": 60,
+      "category": "Mediterranean",
+      "num": 3,
+      "incidence": 6.36,
+      "rank": 2
+    },
+    {
+      "neighborId": 60,
+      "category": "Trainers",
+      "num": 3,
+      "incidence": 5.45,
+      "rank": 3
+    },
+    {
+      "neighborId": 60,
+      "category": "Cosmetic Dentists",
+      "num": 3,
+      "incidence": 4.56,
+      "rank": 4
+    },
+    {
+      "neighborId": 50,
+      "category": "Permanent Makeup",
+      "num": 3,
+      "incidence": 11.98,
+      "rank": 3
+    },
+    {
+      "neighborId": 59,
+      "category": "Nutritionists",
+      "num": 3,
+      "incidence": 4.53,
+      "rank": 4
+    },
+    {
+      "neighborId": 40,
+      "category": "Ethiopian",
+      "num": 3,
+      "incidence": 25.84,
+      "rank": 2
+    },
+    {
+      "neighborId": 33,
+      "category": "Colleges & Universities",
+      "num": 3,
+      "incidence": 13.59,
+      "rank": 3
+    },
+    {
+      "neighborId": 52,
+      "category": "Drugstores",
+      "num": 3,
+      "incidence": 5.6,
+      "rank": 5
+    },
+    {
+      "neighborId": 54,
+      "category": "Szechuan",
+      "num": 3,
+      "incidence": 36.69,
+      "rank": 3
+    },
+    {
+      "neighborId": 54,
+      "category": "Shopping Centers",
+      "num": 3,
+      "incidence": 18.94,
+      "rank": 5
+    },
+    {
+      "neighborId": 63,
+      "category": "Wine Bars",
+      "num": 3,
+      "incidence": 7.11,
+      "rank": 1
+    },
+    {
+      "neighborId": 63,
+      "category": "Chinese",
+      "num": 3,
+      "incidence": 4.09,
+      "rank": 3
+    },
+    {
+      "neighborId": 63,
+      "category": "Caterers",
+      "num": 3,
+      "incidence": 3.35,
+      "rank": 4
+    },
+    {
+      "neighborId": 53,
+      "category": "Kitchen & Bath",
+      "num": 3,
+      "incidence": 7.09,
+      "rank": 1
+    },
+    {
+      "neighborId": 61,
+      "category": "Toy Stores",
+      "num": 3,
+      "incidence": 9.9,
+      "rank": 1
+    },
+    {
+      "neighborId": 61,
+      "category": "Hair Removal",
+      "num": 3,
+      "incidence": 5.9,
+      "rank": 2
+    },
+    {
+      "neighborId": 61,
+      "category": "Carpet Cleaning",
+      "num": 3,
+      "incidence": 3.72,
+      "rank": 5
+    },
+    {
+      "neighborId": 56,
+      "category": "Children's Clothing",
+      "num": 3,
+      "incidence": 11.21,
+      "rank": 1
+    },
+    {
+      "neighborId": 56,
+      "category": "Antiques",
+      "num": 3,
+      "incidence": 5.24,
+      "rank": 4
+    },
+    {
+      "neighborId": 57,
+      "category": "Home Decor",
+      "num": 3,
+      "incidence": 3.15,
+      "rank": 4
+    },
+    {
+      "neighborId": 57,
+      "category": "Limos",
+      "num": 3,
+      "incidence": 3.1,
+      "rank": 5
+    },
+    {
+      "neighborId": 30,
+      "category": "Middle Schools & High Schools",
+      "num": 3,
+      "incidence": 12.66,
+      "rank": 5
+    },
+    {
+      "neighborId": 35,
+      "category": "Vietnamese",
+      "num": 3,
+      "incidence": 8.92,
+      "rank": 1
+    },
+    {
+      "neighborId": 35,
+      "category": "Elementary Schools",
+      "num": 3,
+      "incidence": 6.01,
+      "rank": 3
+    },
+    {
+      "neighborId": 44,
+      "category": "Pest Control",
+      "num": 3,
+      "incidence": 14.63,
+      "rank": 2
+    },
+    {
+      "neighborId": 62,
+      "category": "Kitchen & Bath",
+      "num": 3,
+      "incidence": 5.76,
+      "rank": 4
+    },
+    {
+      "neighborId": 62,
+      "category": "Hair Removal",
+      "num": 3,
+      "incidence": 5.44,
+      "rank": 5
+    },
+    {
+      "neighborId": 64,
+      "category": "Videographers",
+      "num": 3,
+      "incidence": 7.71,
+      "rank": 3
+    },
+    {
+      "neighborId": 64,
+      "category": "Auto Detailing",
+      "num": 3,
+      "incidence": 7.07,
+      "rank": 5
+    },
+    {
+      "neighborId": 47,
+      "category": "Home Staging",
+      "num": 3,
+      "incidence": 22.4,
+      "rank": 1
+    },
+    {
+      "neighborId": 47,
+      "category": "Department Stores",
+      "num": 3,
+      "incidence": 18.23,
+      "rank": 3
+    },
+    {
+      "neighborId": 49,
+      "category": "Buses",
+      "num": 3,
+      "incidence": 23.46,
+      "rank": 3
+    },
+    {
+      "neighborId": 49,
+      "category": "Public Transportation",
+      "num": 3,
+      "incidence": 15.64,
+      "rank": 4
+    },
+    {
+      "neighborId": 55,
+      "category": "Fish & Chips",
+      "num": 3,
+      "incidence": 19.87,
+      "rank": 3
+    },
+    {
+      "neighborId": 55,
+      "category": "Local Flavor",
+      "num": 3,
+      "incidence": 12.8,
+      "rank": 5
+    },
+    {
+      "neighborId": 58,
+      "category": "Musicians",
+      "num": 3,
+      "incidence": 15.87,
+      "rank": 1
+    },
+    {
+      "neighborId": 58,
+      "category": "Middle Schools & High Schools",
+      "num": 3,
+      "incidence": 5.85,
+      "rank": 5
+    },
+    {
+      "neighborId": 51,
+      "category": "Pediatric Dentists",
+      "num": 3,
+      "incidence": 26.08,
+      "rank": 1
+    },
+    {
+      "neighborId": 51,
+      "category": "Karaoke",
+      "num": 3,
+      "incidence": 17.16,
+      "rank": 2
+    },
+    {
+      "neighborId": 45,
+      "category": "Waxing",
+      "num": 4,
+      "incidence": 6.67,
+      "rank": 5
+    },
+    {
+      "neighborId": 69,
+      "category": "Hotels",
+      "num": 4,
+      "incidence": 2.89,
+      "rank": 4
+    },
+    {
+      "neighborId": 37,
+      "category": "Hair Removal",
+      "num": 4,
+      "incidence": 14.73,
+      "rank": 2
+    },
+    {
+      "neighborId": 50,
+      "category": "Gay Bars",
+      "num": 4,
+      "incidence": 46.24,
+      "rank": 1
+    },
+    {
+      "neighborId": 32,
+      "category": "Veterinarians",
+      "num": 4,
+      "incidence": 15.74,
+      "rank": 2
+    },
+    {
+      "neighborId": 48,
+      "category": "Hair Extensions",
+      "num": 4,
+      "incidence": 29.97,
+      "rank": 2
+    },
+    {
+      "neighborId": 48,
+      "category": "Ethiopian",
+      "num": 4,
+      "incidence": 29.09,
+      "rank": 3
+    },
+    {
+      "neighborId": 59,
+      "category": "Traditional Chinese Medicine",
+      "num": 4,
+      "incidence": 6.41,
+      "rank": 2
+    },
+    {
+      "neighborId": 59,
+      "category": "Tours",
+      "num": 4,
+      "incidence": 6.3,
+      "rank": 3
+    },
+    {
+      "neighborId": 68,
+      "category": "Gas Stations",
+      "num": 4,
+      "incidence": 6.42,
+      "rank": 3
+    },
+    {
+      "neighborId": 68,
+      "category": "Middle Schools & High Schools",
+      "num": 4,
+      "incidence": 5.21,
+      "rank": 5
+    },
+    {
+      "neighborId": 54,
+      "category": "Hot Pot",
+      "num": 4,
+      "incidence": 48.92,
+      "rank": 1
+    },
+    {
+      "neighborId": 61,
+      "category": "Day Spas",
+      "num": 4,
+      "incidence": 5.47,
+      "rank": 3
+    },
+    {
+      "neighborId": 61,
+      "category": "Nail Salons",
+      "num": 4,
+      "incidence": 3.78,
+      "rank": 4
+    },
+    {
+      "neighborId": 56,
+      "category": "Nutritionists",
+      "num": 4,
+      "incidence": 6.23,
+      "rank": 2
+    },
+    {
+      "neighborId": 57,
+      "category": "Elementary Schools",
+      "num": 4,
+      "incidence": 4.06,
+      "rank": 1
+    },
+    {
+      "neighborId": 39,
+      "category": "Veterinarians",
+      "num": 4,
+      "incidence": 12.93,
+      "rank": 3
+    },
+    {
+      "neighborId": 66,
+      "category": "Child Care & Day Care",
+      "num": 4,
+      "incidence": 4.79,
+      "rank": 5
+    },
+    {
+      "neighborId": 65,
+      "category": "Burgers",
+      "num": 4,
+      "incidence": 3.52,
+      "rank": 2
+    },
+    {
+      "neighborId": 65,
+      "category": "Medical Centers",
+      "num": 4,
+      "incidence": 2.77,
+      "rank": 5
+    },
+    {
+      "neighborId": 67,
+      "category": "Transmission Repair",
+      "num": 4,
+      "incidence": 22.68,
+      "rank": 1
+    },
+    {
+      "neighborId": 67,
+      "category": "Colleges & Universities",
+      "num": 4,
+      "incidence": 5.8,
+      "rank": 4
+    },
+    {
+      "neighborId": 62,
+      "category": "Self Storage",
+      "num": 4,
+      "incidence": 10.08,
+      "rank": 2
+    },
+    {
+      "neighborId": 62,
+      "category": "Colleges & Universities",
+      "num": 4,
+      "incidence": 7.5,
+      "rank": 3
+    },
+    {
+      "neighborId": 64,
+      "category": "Auto Glass Services",
+      "num": 4,
+      "incidence": 9.75,
+      "rank": 2
+    },
+    {
+      "neighborId": 70,
+      "category": "Ice Cream & Frozen Yogurt",
+      "num": 4,
+      "incidence": 5.23,
+      "rank": 2
+    },
+    {
+      "neighborId": 70,
+      "category": "Cosmetic Dentists",
+      "num": 4,
+      "incidence": 3.89,
+      "rank": 3
+    },
+    {
+      "neighborId": 70,
+      "category": "Desserts",
+      "num": 4,
+      "incidence": 3.67,
+      "rank": 5
+    },
+    {
+      "neighborId": 72,
+      "category": "Reiki",
+      "num": 4,
+      "incidence": 6.27,
+      "rank": 3
+    },
+    {
+      "neighborId": 49,
+      "category": "Body Shops",
+      "num": 4,
+      "incidence": 12.19,
+      "rank": 5
+    },
+    {
+      "neighborId": 31,
+      "category": "Boating",
+      "num": 4,
+      "incidence": 34.95,
+      "rank": 5
+    },
+    {
+      "neighborId": 71,
+      "category": "DJs",
+      "num": 4,
+      "incidence": 5.42,
+      "rank": 4
+    },
+    {
+      "neighborId": 55,
+      "category": "Souvenir Shops",
+      "num": 4,
+      "incidence": 59.09,
+      "rank": 2
+    },
+    {
+      "neighborId": 58,
+      "category": "Wedding Planning",
+      "num": 4,
+      "incidence": 6.55,
+      "rank": 2
+    },
+    {
+      "neighborId": 58,
+      "category": "Pubs",
+      "num": 4,
+      "incidence": 6.44,
+      "rank": 3
+    },
+    {
+      "neighborId": 51,
+      "category": "Tax Services",
+      "num": 4,
+      "incidence": 5.27,
+      "rank": 4
+    },
+    {
+      "neighborId": 75,
+      "category": "Tours",
+      "num": 5,
+      "incidence": 4.27,
+      "rank": 1
+    },
+    {
+      "neighborId": 75,
+      "category": "Day Spas",
+      "num": 5,
+      "incidence": 3.84,
+      "rank": 2
+    },
+    {
+      "neighborId": 75,
+      "category": "Italian",
+      "num": 5,
+      "incidence": 3.32,
+      "rank": 5
+    },
+    {
+      "neighborId": 41,
+      "category": "Body Shops",
+      "num": 5,
+      "incidence": 18.88,
+      "rank": 2
+    },
+    {
+      "neighborId": 78,
+      "category": "Lounges",
+      "num": 5,
+      "incidence": 4.55,
+      "rank": 3
+    },
+    {
+      "neighborId": 78,
+      "category": "Barbers",
+      "num": 5,
+      "incidence": 3.34,
+      "rank": 4
+    },
+    {
+      "neighborId": 79,
+      "category": "Life Coach",
+      "num": 5,
+      "incidence": 4.18,
+      "rank": 3
+    },
+    {
+      "neighborId": 74,
+      "category": "Yoga",
+      "num": 5,
+      "incidence": 6.96,
+      "rank": 2
+    },
+    {
+      "neighborId": 74,
+      "category": "Traditional Chinese Medicine",
+      "num": 5,
+      "incidence": 4.37,
+      "rank": 4
+    },
+    {
+      "neighborId": 59,
+      "category": "Weight Loss Centers",
+      "num": 5,
+      "incidence": 10.29,
+      "rank": 1
+    },
+    {
+      "neighborId": 46,
+      "category": "Pet Sitting",
+      "num": 5,
+      "incidence": 6.69,
+      "rank": 5
+    },
+    {
+      "neighborId": 68,
+      "category": "Internal Medicine",
+      "num": 5,
+      "incidence": 11.45,
+      "rank": 2
+    },
+    {
+      "neighborId": 68,
+      "category": "Drugstores",
+      "num": 5,
+      "incidence": 5.42,
+      "rank": 4
+    },
+    {
+      "neighborId": 38,
+      "category": "Vietnamese",
+      "num": 5,
+      "incidence": 13.11,
+      "rank": 3
+    },
+    {
+      "neighborId": 76,
+      "category": "Seafood Markets",
+      "num": 5,
+      "incidence": 15.32,
+      "rank": 1
+    },
+    {
+      "neighborId": 54,
+      "category": "International Grocery",
+      "num": 5,
+      "incidence": 40.77,
+      "rank": 2
+    },
+    {
+      "neighborId": 63,
+      "category": "Pizza",
+      "num": 5,
+      "incidence": 3.25,
+      "rank": 5
+    },
+    {
+      "neighborId": 53,
+      "category": "Elementary Schools",
+      "num": 5,
+      "incidence": 5.39,
+      "rank": 4
+    },
+    {
+      "neighborId": 53,
+      "category": "Pet Sitting",
+      "num": 5,
+      "incidence": 4.89,
+      "rank": 5
+    },
+    {
+      "neighborId": 56,
+      "category": "Nail Salons",
+      "num": 5,
+      "incidence": 5.05,
+      "rank": 5
+    },
+    {
+      "neighborId": 57,
+      "category": "Performing Arts",
+      "num": 5,
+      "incidence": 3.17,
+      "rank": 3
+    },
+    {
+      "neighborId": 66,
+      "category": "Ethiopian",
+      "num": 5,
+      "incidence": 18.68,
+      "rank": 1
+    },
+    {
+      "neighborId": 66,
+      "category": "Doctors",
+      "num": 5,
+      "incidence": 5.08,
+      "rank": 4
+    },
+    {
+      "neighborId": 65,
+      "category": "Mexican",
+      "num": 5,
+      "incidence": 2.97,
+      "rank": 4
+    },
+    {
+      "neighborId": 67,
+      "category": "Home Health Care",
+      "num": 5,
+      "incidence": 10.06,
+      "rank": 2
+    },
+    {
+      "neighborId": 67,
+      "category": "Doctors",
+      "num": 5,
+      "incidence": 4.99,
+      "rank": 5
+    },
+    {
+      "neighborId": 62,
+      "category": "Funeral Services & Cemeteries",
+      "num": 5,
+      "incidence": 27.81,
+      "rank": 1
+    },
+    {
+      "neighborId": 64,
+      "category": "Car Dealers",
+      "num": 5,
+      "incidence": 7.36,
+      "rank": 4
+    },
+    {
+      "neighborId": 71,
+      "category": "Cabinetry",
+      "num": 5,
+      "incidence": 21.64,
+      "rank": 1
+    },
+    {
+      "neighborId": 55,
+      "category": "Ferries",
+      "num": 5,
+      "incidence": 160.04,
+      "rank": 1
+    },
+    {
+      "neighborId": 73,
+      "category": "Laundry Services",
+      "num": 5,
+      "incidence": 4.65,
+      "rank": 1
+    },
+    {
+      "neighborId": 73,
+      "category": "Home Decor",
+      "num": 5,
+      "incidence": 2.87,
+      "rank": 4
+    },
+    {
+      "neighborId": 73,
+      "category": "Hair Stylists",
+      "num": 5,
+      "incidence": 2.75,
+      "rank": 5
+    },
+    {
+      "neighborId": 80,
+      "category": "Printing Services",
+      "num": 5,
+      "incidence": 3.31,
+      "rank": 5
+    },
+    {
+      "neighborId": 69,
+      "category": "Body Shops",
+      "num": 6,
+      "incidence": 9.35,
+      "rank": 2
+    },
+    {
+      "neighborId": 69,
+      "category": "Insurance",
+      "num": 6,
+      "incidence": 2.17,
+      "rank": 5
+    },
+    {
+      "neighborId": 78,
+      "category": "Music Venues",
+      "num": 6,
+      "incidence": 6.27,
+      "rank": 1
+    },
+    {
+      "neighborId": 78,
+      "category": "Nail Salons",
+      "num": 6,
+      "incidence": 2.95,
+      "rank": 5
+    },
+    {
+      "neighborId": 74,
+      "category": "Radio Stations",
+      "num": 6,
+      "incidence": 9.26,
+      "rank": 1
+    },
+    {
+      "neighborId": 74,
+      "category": "Life Coach",
+      "num": 6,
+      "incidence": 5.81,
+      "rank": 3
+    },
+    {
+      "neighborId": 76,
+      "category": "Transportation",
+      "num": 6,
+      "incidence": 12.52,
+      "rank": 2
+    },
+    {
+      "neighborId": 53,
+      "category": "Dog Walkers",
+      "num": 6,
+      "incidence": 5.99,
+      "rank": 3
+    },
+    {
+      "neighborId": 57,
+      "category": "Photographers",
+      "num": 6,
+      "incidence": 3.7,
+      "rank": 2
+    },
+    {
+      "neighborId": 77,
+      "category": "Laundry Services",
+      "num": 6,
+      "incidence": 5.12,
+      "rank": 1
+    },
+    {
+      "neighborId": 65,
+      "category": "Venues & Event Spaces",
+      "num": 6,
+      "incidence": 3.02,
+      "rank": 3
+    },
+    {
+      "neighborId": 67,
+      "category": "Nutritionists",
+      "num": 6,
+      "incidence": 6.24,
+      "rank": 3
+    },
+    {
+      "neighborId": 44,
+      "category": "Venues & Event Spaces",
+      "num": 6,
+      "incidence": 6.55,
+      "rank": 5
+    },
+    {
+      "neighborId": 70,
+      "category": "Hair Stylists",
+      "num": 6,
+      "incidence": 3.67,
+      "rank": 4
+    },
+    {
+      "neighborId": 36,
+      "category": "Auto Repair",
+      "num": 6,
+      "incidence": 5.26,
+      "rank": 5
+    },
+    {
+      "neighborId": 49,
+      "category": "Metal Fabricators",
+      "num": 6,
+      "incidence": 33.51,
+      "rank": 2
+    },
+    {
+      "neighborId": 58,
+      "category": "Elementary Schools",
+      "num": 6,
+      "incidence": 6.04,
+      "rank": 4
+    },
+    {
+      "neighborId": 80,
+      "category": "Accountants",
+      "num": 6,
+      "incidence": 3.66,
+      "rank": 3
+    },
+    {
+      "neighborId": 80,
+      "category": "Appliances & Repair",
+      "num": 6,
+      "incidence": 3.66,
+      "rank": 4
+    },
+    {
+      "neighborId": 82,
+      "category": "Commercial Real Estate",
+      "num": 6,
+      "incidence": 4.56,
+      "rank": 4
+    },
+    {
+      "neighborId": 51,
+      "category": "Naturopathic/Holistic",
+      "num": 6,
+      "incidence": 6.3,
+      "rank": 3
+    },
+    {
+      "neighborId": 75,
+      "category": "Financial Advising",
+      "num": 7,
+      "incidence": 3.6,
+      "rank": 3
+    },
+    {
+      "neighborId": 60,
+      "category": "Insurance",
+      "num": 7,
+      "incidence": 3.75,
+      "rank": 5
+    },
+    {
+      "neighborId": 78,
+      "category": "Child Care & Day Care",
+      "num": 7,
+      "incidence": 6.01,
+      "rank": 2
+    },
+    {
+      "neighborId": 76,
+      "category": "Tours",
+      "num": 7,
+      "incidence": 5.97,
+      "rank": 5
+    },
+    {
+      "neighborId": 84,
+      "category": "Bubble Tea",
+      "num": 7,
+      "incidence": 14.5,
+      "rank": 3
+    },
+    {
+      "neighborId": 53,
+      "category": "Preschools",
+      "num": 7,
+      "incidence": 5.99,
+      "rank": 2
+    },
+    {
+      "neighborId": 77,
+      "category": "Nail Salons",
+      "num": 7,
+      "incidence": 3.55,
+      "rank": 5
+    },
+    {
+      "neighborId": 81,
+      "category": "Elementary Schools",
+      "num": 7,
+      "incidence": 2.74,
+      "rank": 5
+    },
+    {
+      "neighborId": 80,
+      "category": "Breweries",
+      "num": 7,
+      "incidence": 8.48,
+      "rank": 1
+    },
+    {
+      "neighborId": 80,
+      "category": "Carpet Cleaning",
+      "num": 7,
+      "incidence": 4.21,
+      "rank": 2
+    },
+    {
+      "neighborId": 75,
+      "category": "Pizza",
+      "num": 8,
+      "incidence": 3.32,
+      "rank": 4
+    },
+    {
+      "neighborId": 69,
+      "category": "Car Dealers",
+      "num": 8,
+      "incidence": 10.0,
+      "rank": 1
+    },
+    {
+      "neighborId": 90,
+      "category": "Cosmetic Dentists",
+      "num": 8,
+      "incidence": 3.63,
+      "rank": 4
+    },
+    {
+      "neighborId": 59,
+      "category": "Auto Repair",
+      "num": 8,
+      "incidence": 3.84,
+      "rank": 5
+    },
+    {
+      "neighborId": 87,
+      "category": "Nurseries & Gardening",
+      "num": 8,
+      "incidence": 9.95,
+      "rank": 2
+    },
+    {
+      "neighborId": 89,
+      "category": "Veterinarians",
+      "num": 8,
+      "incidence": 4.33,
+      "rank": 2
+    },
+    {
+      "neighborId": 86,
+      "category": "Dog Walkers",
+      "num": 8,
+      "incidence": 2.44,
+      "rank": 4
+    },
+    {
+      "neighborId": 77,
+      "category": "Dog Walkers",
+      "num": 8,
+      "incidence": 3.77,
+      "rank": 3
+    },
+    {
+      "neighborId": 65,
+      "category": "Grocery",
+      "num": 8,
+      "incidence": 3.68,
+      "rank": 1
+    },
+    {
+      "neighborId": 88,
+      "category": "Sports Wear",
+      "num": 8,
+      "incidence": 5.38,
+      "rank": 3
+    },
+    {
+      "neighborId": 64,
+      "category": "Auto Parts & Supplies",
+      "num": 8,
+      "incidence": 17.4,
+      "rank": 1
+    },
+    {
+      "neighborId": 70,
+      "category": "Pubs",
+      "num": 8,
+      "incidence": 7.91,
+      "rank": 1
+    },
+    {
+      "neighborId": 85,
+      "category": "Sports Wear",
+      "num": 8,
+      "incidence": 6.29,
+      "rank": 1
+    },
+    {
+      "neighborId": 85,
+      "category": "Shoe Stores",
+      "num": 8,
+      "incidence": 5.19,
+      "rank": 4
+    },
+    {
+      "neighborId": 72,
+      "category": "Family Practice",
+      "num": 8,
+      "incidence": 9.63,
+      "rank": 1
+    },
+    {
+      "neighborId": 72,
+      "category": "Doctors",
+      "num": 8,
+      "incidence": 6.62,
+      "rank": 2
+    },
+    {
+      "neighborId": 71,
+      "category": "Car Dealers",
+      "num": 8,
+      "incidence": 9.38,
+      "rank": 2
+    },
+    {
+      "neighborId": 90,
+      "category": "Commercial Real Estate",
+      "num": 9,
+      "incidence": 5.26,
+      "rank": 2
+    },
+    {
+      "neighborId": 90,
+      "category": "General Litigation",
+      "num": 9,
+      "incidence": 4.39,
+      "rank": 3
+    },
+    {
+      "neighborId": 79,
+      "category": "Food Trucks",
+      "num": 9,
+      "incidence": 5.05,
+      "rank": 2
+    },
+    {
+      "neighborId": 79,
+      "category": "Dog Walkers",
+      "num": 9,
+      "incidence": 3.86,
+      "rank": 4
+    },
+    {
+      "neighborId": 83,
+      "category": "Performing Arts",
+      "num": 9,
+      "incidence": 2.05,
+      "rank": 5
+    },
+    {
+      "neighborId": 84,
+      "category": "Barbeque",
+      "num": 9,
+      "incidence": 9.32,
+      "rank": 5
+    },
+    {
+      "neighborId": 86,
+      "category": "Event Photography",
+      "num": 9,
+      "incidence": 2.19,
+      "rank": 5
+    },
+    {
+      "neighborId": 91,
+      "category": "Accountants",
+      "num": 9,
+      "incidence": 3.41,
+      "rank": 2
+    },
+    {
+      "neighborId": 73,
+      "category": "Skin Care",
+      "num": 9,
+      "incidence": 3.29,
+      "rank": 2
+    },
+    {
+      "neighborId": 82,
+      "category": "Boating",
+      "num": 9,
+      "incidence": 13.83,
+      "rank": 1
+    },
+    {
+      "neighborId": 82,
+      "category": "Radio Stations",
+      "num": 9,
+      "incidence": 9.73,
+      "rank": 2
+    },
+    {
+      "neighborId": 90,
+      "category": "Employment Law",
+      "num": 10,
+      "incidence": 6.33,
+      "rank": 1
+    },
+    {
+      "neighborId": 74,
+      "category": "Massage",
+      "num": 10,
+      "incidence": 3.36,
+      "rank": 5
+    },
+    {
+      "neighborId": 87,
+      "category": "Building Supplies",
+      "num": 10,
+      "incidence": 11.67,
+      "rank": 1
+    },
+    {
+      "neighborId": 87,
+      "category": "Antiques",
+      "num": 10,
+      "incidence": 5.34,
+      "rank": 5
+    },
+    {
+      "neighborId": 89,
+      "category": "Car Dealers",
+      "num": 10,
+      "incidence": 5.59,
+      "rank": 1
+    },
+    {
+      "neighborId": 89,
+      "category": "Waxing",
+      "num": 10,
+      "incidence": 3.29,
+      "rank": 3
+    },
+    {
+      "neighborId": 89,
+      "category": "Mexican",
+      "num": 10,
+      "incidence": 2.45,
+      "rank": 5
+    },
+    {
+      "neighborId": 66,
+      "category": "Medical Centers",
+      "num": 10,
+      "incidence": 6.76,
+      "rank": 2
+    },
+    {
+      "neighborId": 91,
+      "category": "Tax Services",
+      "num": 10,
+      "incidence": 3.19,
+      "rank": 4
+    },
+    {
+      "neighborId": 69,
+      "category": "Auto Repair",
+      "num": 11,
+      "incidence": 3.5,
+      "rank": 3
+    },
+    {
+      "neighborId": 90,
+      "category": "Hotels",
+      "num": 11,
+      "incidence": 3.52,
+      "rank": 5
+    },
+    {
+      "neighborId": 94,
+      "category": "Cosmetic Surgeons",
+      "num": 11,
+      "incidence": 17.52,
+      "rank": 3
+    },
+    {
+      "neighborId": 83,
+      "category": "Naturopathic/Holistic",
+      "num": 11,
+      "incidence": 3.57,
+      "rank": 2
+    },
+    {
+      "neighborId": 77,
+      "category": "Preschools",
+      "num": 11,
+      "incidence": 4.45,
+      "rank": 2
+    },
+    {
+      "neighborId": 95,
+      "category": "Sports Bars",
+      "num": 11,
+      "incidence": 6.57,
+      "rank": 1
+    },
+    {
+      "neighborId": 95,
+      "category": "Criminal Defense Law",
+      "num": 11,
+      "incidence": 3.65,
+      "rank": 4
+    },
+    {
+      "neighborId": 92,
+      "category": "Salad",
+      "num": 11,
+      "incidence": 4.85,
+      "rank": 1
+    },
+    {
+      "neighborId": 93,
+      "category": "Hair Stylists",
+      "num": 11,
+      "incidence": 2.48,
+      "rank": 4
+    },
+    {
+      "neighborId": 84,
+      "category": "Dim Sum",
+      "num": 12,
+      "incidence": 29.64,
+      "rank": 2
+    },
+    {
+      "neighborId": 88,
+      "category": "Cosmetics & Beauty Supply",
+      "num": 12,
+      "incidence": 5.34,
+      "rank": 4
+    },
+    {
+      "neighborId": 88,
+      "category": "Men's Clothing",
+      "num": 12,
+      "incidence": 4.09,
+      "rank": 5
+    },
+    {
+      "neighborId": 95,
+      "category": "Antiques",
+      "num": 12,
+      "incidence": 4.35,
+      "rank": 3
+    },
+    {
+      "neighborId": 85,
+      "category": "Men's Clothing",
+      "num": 12,
+      "incidence": 4.78,
+      "rank": 5
+    },
+    {
+      "neighborId": 72,
+      "category": "Naturopathic/Holistic",
+      "num": 12,
+      "incidence": 6.0,
+      "rank": 4
+    },
+    {
+      "neighborId": 71,
+      "category": "Photographers",
+      "num": 12,
+      "incidence": 4.46,
+      "rank": 5
+    },
+    {
+      "neighborId": 79,
+      "category": "Session Photography",
+      "num": 13,
+      "incidence": 3.45,
+      "rank": 5
+    },
+    {
+      "neighborId": 96,
+      "category": "Video/Film Production",
+      "num": 13,
+      "incidence": 5.02,
+      "rank": 5
+    },
+    {
+      "neighborId": 76,
+      "category": "Financial Advising",
+      "num": 13,
+      "incidence": 6.68,
+      "rank": 4
+    },
+    {
+      "neighborId": 77,
+      "category": "Insurance",
+      "num": 13,
+      "incidence": 3.67,
+      "rank": 4
+    },
+    {
+      "neighborId": 81,
+      "category": "Mortgage Brokers",
+      "num": 13,
+      "incidence": 5.97,
+      "rank": 1
+    },
+    {
+      "neighborId": 81,
+      "category": "General Dentistry",
+      "num": 13,
+      "incidence": 3.76,
+      "rank": 3
+    },
+    {
+      "neighborId": 88,
+      "category": "Shoe Stores",
+      "num": 13,
+      "incidence": 7.21,
+      "rank": 2
+    },
+    {
+      "neighborId": 92,
+      "category": "Food Trucks",
+      "num": 13,
+      "incidence": 3.69,
+      "rank": 3
+    },
+    {
+      "neighborId": 93,
+      "category": "Naturopathic/Holistic",
+      "num": 13,
+      "incidence": 2.64,
+      "rank": 1
+    },
+    {
+      "neighborId": 93,
+      "category": "Physical Therapy",
+      "num": 13,
+      "incidence": 2.48,
+      "rank": 3
+    },
+    {
+      "neighborId": 87,
+      "category": "Interior Design",
+      "num": 14,
+      "incidence": 5.34,
+      "rank": 4
+    },
+    {
+      "neighborId": 83,
+      "category": "Real Estate Services",
+      "num": 14,
+      "incidence": 2.78,
+      "rank": 4
+    },
+    {
+      "neighborId": 96,
+      "category": "Fruits & Veggies",
+      "num": 14,
+      "incidence": 11.9,
+      "rank": 1
+    },
+    {
+      "neighborId": 96,
+      "category": "Kitchen & Bath",
+      "num": 14,
+      "incidence": 5.67,
+      "rank": 3
+    },
+    {
+      "neighborId": 76,
+      "category": "Seafood",
+      "num": 14,
+      "incidence": 7.26,
+      "rank": 3
+    },
+    {
+      "neighborId": 86,
+      "category": "Session Photography",
+      "num": 14,
+      "incidence": 2.65,
+      "rank": 3
+    },
+    {
+      "neighborId": 81,
+      "category": "Real Estate Services",
+      "num": 14,
+      "incidence": 2.98,
+      "rank": 4
+    },
+    {
+      "neighborId": 92,
+      "category": "Hotels",
+      "num": 14,
+      "incidence": 3.64,
+      "rank": 4
+    },
+    {
+      "neighborId": 97,
+      "category": "Medical Centers",
+      "num": 14,
+      "incidence": 2.33,
+      "rank": 2
+    },
+    {
+      "neighborId": 71,
+      "category": "Chiropractors",
+      "num": 14,
+      "incidence": 5.55,
+      "rank": 3
+    },
+    {
+      "neighborId": 55,
+      "category": "Seafood",
+      "num": 14,
+      "incidence": 14.23,
+      "rank": 4
+    },
+    {
+      "neighborId": 100,
+      "category": "Cocktail Bars",
+      "num": 15,
+      "incidence": 2.54,
+      "rank": 1
+    },
+    {
+      "neighborId": 100,
+      "category": "Photographers",
+      "num": 15,
+      "incidence": 1.37,
+      "rank": 4
+    },
+    {
+      "neighborId": 99,
+      "category": "Property Management",
+      "num": 15,
+      "incidence": 1.89,
+      "rank": 5
+    },
+    {
+      "neighborId": 92,
+      "category": "Mortgage Brokers",
+      "num": 15,
+      "incidence": 4.13,
+      "rank": 2
+    },
+    {
+      "neighborId": 97,
+      "category": "Pizza",
+      "num": 15,
+      "incidence": 1.98,
+      "rank": 4
+    },
+    {
+      "neighborId": 91,
+      "category": "Personal Injury Law",
+      "num": 15,
+      "incidence": 2.52,
+      "rank": 5
+    },
+    {
+      "neighborId": 73,
+      "category": "Massage Therapy",
+      "num": 15,
+      "incidence": 3.08,
+      "rank": 3
+    },
+    {
+      "neighborId": 100,
+      "category": "Banks & Credit Unions",
+      "num": 16,
+      "incidence": 1.32,
+      "rank": 5
+    },
+    {
+      "neighborId": 99,
+      "category": "Cocktail Bars",
+      "num": 16,
+      "incidence": 2.78,
+      "rank": 1
+    },
+    {
+      "neighborId": 68,
+      "category": "Doctors",
+      "num": 16,
+      "incidence": 15.82,
+      "rank": 1
+    },
+    {
+      "neighborId": 96,
+      "category": "Hardware Stores",
+      "num": 16,
+      "incidence": 7.56,
+      "rank": 2
+    },
+    {
+      "neighborId": 100,
+      "category": "Breakfast & Brunch",
+      "num": 17,
+      "incidence": 1.7,
+      "rank": 2
+    },
+    {
+      "neighborId": 94,
+      "category": "Obstetricians & Gynecologists",
+      "num": 17,
+      "incidence": 21.15,
+      "rank": 1
+    },
+    {
+      "neighborId": 84,
+      "category": "Chinese",
+      "num": 17,
+      "incidence": 9.66,
+      "rank": 4
+    },
+    {
+      "neighborId": 54,
+      "category": "Vietnamese",
+      "num": 17,
+      "incidence": 26.83,
+      "rank": 4
+    },
+    {
+      "neighborId": 56,
+      "category": "Counseling & Mental Health",
+      "num": 17,
+      "incidence": 5.5,
+      "rank": 3
+    },
+    {
+      "neighborId": 92,
+      "category": "Venues & Event Spaces",
+      "num": 17,
+      "incidence": 2.83,
+      "rank": 5
+    },
+    {
+      "neighborId": 98,
+      "category": "Naturopathic/Holistic",
+      "num": 18,
+      "incidence": 2.57,
+      "rank": 4
+    },
+    {
+      "neighborId": 84,
+      "category": "Cantonese",
+      "num": 18,
+      "incidence": 41.28,
+      "rank": 1
+    },
+    {
+      "neighborId": 72,
+      "category": "Acupuncture",
+      "num": 18,
+      "incidence": 4.62,
+      "rank": 5
+    },
+    {
+      "neighborId": 100,
+      "category": "Women's Clothing",
+      "num": 19,
+      "incidence": 1.69,
+      "rank": 3
+    },
+    {
+      "neighborId": 96,
+      "category": "Printing Services",
+      "num": 19,
+      "incidence": 5.05,
+      "rank": 4
+    },
+    {
+      "neighborId": 91,
+      "category": "Performing Arts",
+      "num": 19,
+      "incidence": 3.39,
+      "rank": 3
+    },
+    {
+      "neighborId": 94,
+      "category": "Internal Medicine",
+      "num": 20,
+      "incidence": 14.75,
+      "rank": 5
+    },
+    {
+      "neighborId": 86,
+      "category": "Real Estate Services",
+      "num": 20,
+      "incidence": 3.58,
+      "rank": 2
+    },
+    {
+      "neighborId": 66,
+      "category": "Community Service/Non-Profit",
+      "num": 20,
+      "incidence": 5.11,
+      "rank": 3
+    },
+    {
+      "neighborId": 97,
+      "category": "Performing Arts",
+      "num": 20,
+      "incidence": 2.12,
+      "rank": 3
+    },
+    {
+      "neighborId": 82,
+      "category": "Real Estate Services",
+      "num": 20,
+      "incidence": 4.08,
+      "rank": 5
+    },
+    {
+      "neighborId": 94,
+      "category": "Orthopedists",
+      "num": 21,
+      "incidence": 19.91,
+      "rank": 2
+    },
+    {
+      "neighborId": 98,
+      "category": "Skin Care",
+      "num": 21,
+      "incidence": 2.22,
+      "rank": 5
+    },
+    {
+      "neighborId": 93,
+      "category": "Real Estate Services",
+      "num": 21,
+      "incidence": 2.6,
+      "rank": 2
+    },
+    {
+      "neighborId": 93,
+      "category": "Acupuncture",
+      "num": 21,
+      "incidence": 2.19,
+      "rank": 5
+    },
+    {
+      "neighborId": 82,
+      "category": "Mortgage Brokers",
+      "num": 22,
+      "incidence": 9.69,
+      "rank": 3
+    },
+    {
+      "neighborId": 89,
+      "category": "Auto Repair",
+      "num": 23,
+      "incidence": 3.27,
+      "rank": 4
+    },
+    {
+      "neighborId": 85,
+      "category": "Accessories",
+      "num": 23,
+      "incidence": 6.24,
+      "rank": 2
+    },
+    {
+      "neighborId": 99,
+      "category": "Breakfast & Brunch",
+      "num": 24,
+      "incidence": 2.46,
+      "rank": 3
+    },
+    {
+      "neighborId": 91,
+      "category": "Festivals",
+      "num": 24,
+      "incidence": 12.75,
+      "rank": 1
+    },
+    {
+      "neighborId": 87,
+      "category": "Furniture Stores",
+      "num": 25,
+      "incidence": 7.73,
+      "rank": 3
+    },
+    {
+      "neighborId": 101,
+      "category": "American (New)",
+      "num": 26,
+      "incidence": 1.89,
+      "rank": 4
+    },
+    {
+      "neighborId": 83,
+      "category": "Counseling & Mental Health",
+      "num": 26,
+      "incidence": 3.03,
+      "rank": 3
+    },
+    {
+      "neighborId": 85,
+      "category": "Women's Clothing",
+      "num": 27,
+      "incidence": 5.46,
+      "rank": 3
+    },
+    {
+      "neighborId": 97,
+      "category": "Colleges & Universities",
+      "num": 27,
+      "incidence": 9.81,
+      "rank": 1
+    },
+    {
+      "neighborId": 98,
+      "category": "Massage",
+      "num": 28,
+      "incidence": 2.82,
+      "rank": 3
+    },
+    {
+      "neighborId": 97,
+      "category": "Coffee & Tea",
+      "num": 29,
+      "incidence": 1.72,
+      "rank": 5
+    },
+    {
+      "neighborId": 99,
+      "category": "Marketing",
+      "num": 30,
+      "incidence": 2.55,
+      "rank": 2
+    },
+    {
+      "neighborId": 63,
+      "category": "Apartments",
+      "num": 31,
+      "incidence": 5.66,
+      "rank": 2
+    },
+    {
+      "neighborId": 101,
+      "category": "Cocktail Bars",
+      "num": 34,
+      "incidence": 3.95,
+      "rank": 1
+    },
+    {
+      "neighborId": 101,
+      "category": "Bars",
+      "num": 36,
+      "incidence": 2.79,
+      "rank": 2
+    },
+    {
+      "neighborId": 98,
+      "category": "Acupuncture",
+      "num": 41,
+      "incidence": 3.01,
+      "rank": 2
+    },
+    {
+      "neighborId": 95,
+      "category": "Art Galleries",
+      "num": 48,
+      "incidence": 6.17,
+      "rank": 2
+    },
+    {
+      "neighborId": 94,
+      "category": "Doctors",
+      "num": 51,
+      "incidence": 16.25,
+      "rank": 4
+    },
+    {
+      "neighborId": 83,
+      "category": "Real Estate Agents",
+      "num": 60,
+      "incidence": 3.64,
+      "rank": 1
+    },
+    {
+      "neighborId": 98,
+      "category": "Massage Therapy",
+      "num": 63,
+      "incidence": 3.75,
+      "rank": 1
+    },
+    {
+      "neighborId": 99,
+      "category": "Apartments",
+      "num": 69,
+      "incidence": 2.32,
+      "rank": 4
+    },
+    {
+      "neighborId": 86,
+      "category": "Real Estate Agents",
+      "num": 70,
+      "incidence": 3.84,
+      "rank": 1
+    },
+    {
+      "neighborId": 81,
+      "category": "Real Estate Agents",
+      "num": 83,
+      "incidence": 5.4,
+      "rank": 2
+    },
+    {
+      "neighborId": 102,
+      "category": "Divorce & Family Law",
+      "num": 92,
+      "incidence": 2.71,
+      "rank": 4
+    },
+    {
+      "neighborId": 79,
+      "category": "Real Estate Agents",
+      "num": 101,
+      "incidence": 7.78,
+      "rank": 1
+    },
+    {
+      "neighborId": 101,
+      "category": "Real Estate Agents",
+      "num": 108,
+      "incidence": 1.85,
+      "rank": 5
+    },
+    {
+      "neighborId": 101,
+      "category": "Apartments",
+      "num": 109,
+      "incidence": 2.44,
+      "rank": 3
+    },
+    {
+      "neighborId": 102,
+      "category": "Jewelry",
+      "num": 110,
+      "incidence": 2.42,
+      "rank": 5
+    },
+    {
+      "neighborId": 102,
+      "category": "Investing",
+      "num": 115,
+      "incidence": 3.07,
+      "rank": 1
+    },
+    {
+      "neighborId": 95,
+      "category": "Lawyers",
+      "num": 131,
+      "incidence": 3.55,
+      "rank": 5
+    },
+    {
+      "neighborId": 102,
+      "category": "Personal Injury Law",
+      "num": 150,
+      "incidence": 2.99,
+      "rank": 2
+    },
+    {
+      "neighborId": 88,
+      "category": "Real Estate Agents",
+      "num": 217,
+      "incidence": 10.54,
+      "rank": 1
+    },
+    {
+      "neighborId": 102,
+      "category": "Lawyers",
+      "num": 679,
+      "incidence": 2.96,
+      "rank": 3
+    }
+  ]
+}

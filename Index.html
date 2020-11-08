@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Seattle&NewYork</title>
+    <script src = "./D3/d3.js"></script>
+    <style>
+        /*
+            1、CSS的注释方式
+            2、在设置div的时候 不写top,bottom..四个位置，只写margin 不会置中
+            margin auto 代表四个方向都是auto
+            margin 0 auto 代表上下是0， 左右是auto
+        */
+        #SeattleDiv{
+            position: absolute;
+            height: 550px;
+            width: 550px;
+            padding: 20px;
+            border: 2px solid #1677b3;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            left: 0;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+<div id="SeattleDiv"></div>
+<script>
+    //在seattle div中添加svg
+    var SeattleSvgWid = 550, SeattleSvgHei = 550;
+
+    //将svg在div居中也使用了div一样的方法  自动提示是匹配大小写的
+    var SeattleSvg = d3.select("#SeattleDiv")           //选择一个ID时，需要加#吗？
+                        .append("svg")
+                        .attr("width", SeattleSvgWid)
+                        .attr("height", SeattleSvgHei)
+                        .style("background-color", "white")        //background-color只能写成style
+                        .style("top", 0)
+                        .style("bottom", 0)
+                        .style("right", 0)
+                        .style("left", 0)
+                        .style("margin", "auto")
+                        .style("position", "absolute");
+
+    //在svg center处画点
+    // SeattleSvg.append("circle")
+    //             .attr("cx", SeattleSvgWid/2)
+    //             .attr("cy", SeattleSvgHei/2)
+    //             .attr("r", 2)
+    //             .attr("fill", "grey");
+
+    //将seattle写在屏幕中间
+    //文本的写法：首先通过x,y,dx,dy找到一个锚点，然后设置该锚点是文字的起点，中点还是结束点。这几个点都是位于字体的下方
+    var SeattleText = SeattleSvg.append("text")
+                                .attr("font-size", "18px")
+                                .attr("x", SeattleSvgWid/2)
+                                .attr("y", SeattleSvgHei/2)
+                                .attr("dy", "0.5em")
+                                .attr("text-anchor", "middle")
+                                .text("Seattle")
+                                .attr("fill", "#134857");
+
+    // Seattle外面画圆环
+    var  innerR = 40, outerR = 50;
+    var pieGenertor = d3.arc()
+                        .startAngle(0)
+                        .endAngle(Math.PI * 2)
+                        .innerRadius(innerR)
+                        .outerRadius(outerR);
+
+    var SeattlePie = SeattleSvg.append("path")
+                                .attr("d", pieGenertor)
+                                .attr("stroke", "none")
+                                .attr("fill", "#f8e8c1")
+                                .attr("transform", "translate(" + SeattleSvgWid/2 + "," + SeattleSvgHei/2 +")");
+
+    //Seattle外面五层圆
+    var RforTop5 = SeattleSvgHei/2 - 20 - outerR - 5;    //预留给所有圆环的总的半径
+    var RStart = outerR + 5;                        //起始半径
+    var STop5CirclesRatio = [1, 0.8, 0.6, 0.4, 0.2];      //每个圆环所占总半径的比例
+
+    var STop5Circles = SeattleSvg.selectAll("#STop5Circles")
+                                .data(STop5CirclesRatio)
+                                .enter()
+                                .append("circle")
+                                .attr("cx", SeattleSvgWid/2)
+                                .attr("cy", SeattleSvgHei/2)
+                                .attr("r", function (d, i){
+                                    return RforTop5 * d + RStart;
+                                })
+                                .attr("stroke-width", "0.5px")
+                                .attr("stroke", "#b2bbbe")
+                                .attr("fill", "none");
+
+    //将每个社区画成一个线段 使用极坐标表示（r, θ）
+    var SeattleNeighborNum = 103;
+    var SeattleNeighborTheta = [];          //存储每个半径端点的theta值
+    for (var i = 0; i < SeattleNeighborNum; i++){
+        SeattleNeighborTheta.push(2*Math.PI/SeattleNeighborNum * i);
+    }
+
+    var SeattleNeighborRadius = SeattleSvg.selectAll("#SeattleNeighbor")
+                                .data(SeattleNeighborTheta)
+                                .enter()
+                                .append("line")
+                                .attr("x1", 0)
+                                .attr("y1", 0)
+                                .attr("x2", function (d){
+                                    return  (SeattleSvgWid / 2 - 20) * Math.cos(d);
+                                })
+                                .attr("y2", function (d){
+                                    return (SeattleSvgWid / 2 - 20)* Math.sin(d);
+                                })
+                                .attr("transform", "translate(" + SeattleSvgWid/2 + "," + SeattleSvgHei/2 +")")
+                                .attr("stroke-width", "0.2px")
+                                .attr("stroke", "#b2bbbe");
+
+    d3.json("./data/seattle.json").then(function (data){
+        var SeattleNeighbors = data["neighbors"];
+        var SeattleCircles = data["circles"];
+
+        //设为每个circle的半径设置线性比例尺
+        var scaleCircleR = d3.scalePow().exponent(0.5)        // 面积映射到半径
+                            .domain([0, 700])
+                            .range([0, 20])
+
+        //绘制每个社区的商店类型（圆）
+        var SCircles = SeattleSvg.selectAll("circle")
+                                .data(SeattleCircles)
+                                .enter()
+                                .append("circle")
+                                .attr("cx", function (d){
+                                    return Math.cos(SeattleNeighborTheta[d["neighborId"]]) * (RforTop5 * STop5CirclesRatio[d["rank"]-1] + RStart);
+                                })
+                                .attr("cy", function (d){
+                                    return Math.sin(SeattleNeighborTheta[d["neighborId"]]) * (RforTop5 * STop5CirclesRatio[d["rank"]-1] + RStart);
+                                })
+                                .attr("r", function (d){
+                                    return scaleCircleR(d["num"]);
+                                })
+                                .attr("transform", "translate("+ SeattleSvgWid/2 + "," + SeattleSvgHei/2 + ")")
+                                .attr("stroke", "none")
+                                .attr("fill", "#e3b4b8")
+
+
+
+
+    })
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    // //测试link
+    // var dS = {"source": [100, 100], "target": [200, 200]}
+    // var link = d3.linkHorizontal();
+    //
+    // SeattleSvg.append("path")
+    //             .attr("d", link(dS))
+    //             .attr("stoke-width", "1px")
+    //             .attr("stroke", "black")
+    //             .attr("fill", "none");
+
+    // //测试：画线段
+    // var line = [[1, 1], [10, 10], [30, 9]];
+    //
+    // var linepath = d3.line();
+    //
+    // SeattleSvg.append("path")
+    //         .attr("d", linepath(line))
+    //         .attr("stroke", "black")
+    //         .attr("stroke-width", "3px")
+    //         .attr("fill", "none");
+    //
+    // //测试，区域生成器
+    // var area = [20, 30, 40];
+    //
+    // var areaPath = d3.area()
+    //                 .x(function (d, i){
+    //                     return d;
+    //                 })
+    //                 .y0(function (d, i){
+    //                     return 30;
+    //                 })
+    //                 .y1(function (d, i){
+    //                     return d + i * 15 + 30;
+    //                 });
+    //
+    // SeattleSvg.append("path")               //path 如果不设置fill 为空 会自动填充
+    //             .attr("d", areaPath(area))
+    //             .attr("stroke", "black")
+    //             .attr("stroke-width", "1px")
+    //             .attr("fill", "blue");
+    //
+    // //测试，弧生成器
+    // var arc = [{"startAngle": 0, "endAngle": Math.PI * 0.5}, {"startAngle": Math.PI * 0.5, "endAngle": Math.PI}]
+    //
+    // var arcPath = d3.arc()
+    //                 .innerRadius(20)
+    //                 .outerRadius(50);
+    // //绘制一段弧形
+    // // SeattleSvg.append("path")
+    // //             .attr("d", arcPath())
+    // //             .attr("transform", "translate(250, 250)")
+    // //             .attr("stroke", "black")
+    // //             .attr("fill", "none")
+    // //             .attr("stroke-width", "1px");
+    //
+    // //绘制多个弧形, D3里的function很神奇
+    // SeattleSvg.selectAll("#acrPath")
+    //             .data(arc)
+    //             .enter()
+    //             .append("path")
+    //             .attr("d", function (d){
+    //                 return arcPath(d);
+    //             })
+    //             .attr("stroke", "black")
+    //             .attr("transform", "translate(250, 250)")
+    //             .attr("fill", "none")
+    //             .attr("stroke-width", "1px");
+    //
+    // //给每个弧形上添加文字
+    // var arcText = SeattleSvg.selectAll("#arcText")
+    //                 .data(arc)
+    //                 .enter()
+    //                 .append("text")
+    //                 .attr("transform", function (d){
+    //                     return "translate(250, 250)" + "translate(" + arcPath.centroid(d) + ")";
+    //                 })
+    //                 .attr("font-size", "12px")
+    //                 .attr("text-anchor", "middle")
+    //                 .attr("fill", "black")
+    //                 .text("ARC");
+
+
+
+
+
+
+
+
+
+
+</script>
+
+
+
+</body>
+</html>
